@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	Propoziþia conþine cuvinte nepermise.

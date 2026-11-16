@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	Vìta obsahuje nepøípustná slova.

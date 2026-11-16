@@ -1,0 +1,7 @@
+AUTO_CHAT_ADD_EMOJI	ХжЧнЩ був ЪкШэбэ
+AUTO_CHAT_ADD_SHOP_LINK	ХжЧнЩ бЧШи ЧсуЪЬб
+AUTO_CHAT_DISABLED	укис
+AUTO_CHAT_ENABLED	ункс
+AUTO_CHAT_NEXT	ункс (%d)
+AUTO_CHAT_PLACEHOLDER	УЯЮс Чсфе..
+AUTO_CHAT_TITLE	ЧсЯбЯдЩ ЧсЪсоЧЦэЩ

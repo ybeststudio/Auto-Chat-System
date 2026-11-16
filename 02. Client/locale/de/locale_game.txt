@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	Der Satz enthält unzulässige Wörter.

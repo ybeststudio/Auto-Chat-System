@@ -1,0 +1,7 @@
+AUTO_CHAT_ADD_EMOJI	Adaugã emoji
+AUTO_CHAT_ADD_SHOP_LINK	Adaugã link magazin
+AUTO_CHAT_DISABLED	Dezactivat
+AUTO_CHAT_ENABLED	Activat
+AUTO_CHAT_NEXT	Activat (%d)
+AUTO_CHAT_PLACEHOLDER	Introdu textul..
+AUTO_CHAT_TITLE	Chat automat

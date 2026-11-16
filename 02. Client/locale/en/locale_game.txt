@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	This sentence has invalid words in it.

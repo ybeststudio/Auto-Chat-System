@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	La frase contiene parole proibite

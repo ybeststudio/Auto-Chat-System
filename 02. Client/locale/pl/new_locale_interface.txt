@@ -1,0 +1,7 @@
+AUTO_CHAT_ADD_EMOJI	Dodaj emoji
+AUTO_CHAT_ADD_SHOP_LINK	Dodaj link do sklepu
+AUTO_CHAT_DISABLED	Wy³¹czone
+AUTO_CHAT_ENABLED	W³¹czone
+AUTO_CHAT_NEXT	W³¹czone (%d)
+AUTO_CHAT_PLACEHOLDER	Wpisz tekst..
+AUTO_CHAT_TITLE	Automatyczny czat

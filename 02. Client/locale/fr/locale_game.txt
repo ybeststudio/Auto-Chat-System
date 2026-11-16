@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	Cette phrase contient des mots invalides

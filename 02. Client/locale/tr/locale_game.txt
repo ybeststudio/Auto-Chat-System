@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	Bu cümle yanlýþ kelimeler içeriyor.

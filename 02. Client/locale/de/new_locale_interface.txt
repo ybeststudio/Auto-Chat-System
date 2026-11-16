@@ -1,0 +1,7 @@
+AUTO_CHAT_ADD_EMOJI	Emoji hinzufügen
+AUTO_CHAT_ADD_SHOP_LINK	Shop-Link hinzufügen
+AUTO_CHAT_DISABLED	Deaktiviert
+AUTO_CHAT_ENABLED	Aktiviert
+AUTO_CHAT_NEXT	Aktiviert (%d)
+AUTO_CHAT_PLACEHOLDER	Text eingeben..
+AUTO_CHAT_TITLE	Auto-Chat

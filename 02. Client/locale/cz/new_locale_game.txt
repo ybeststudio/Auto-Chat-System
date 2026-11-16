@@ -1,0 +1,7 @@
+AUTO_CHAT_ADD_EMOJI	Pøidat emotikon
+AUTO_CHAT_ADD_SHOP_LINK	Pøidat odkaz na obchod
+AUTO_CHAT_DISABLED	Vypnuto
+AUTO_CHAT_ENABLED	Zapnuto
+AUTO_CHAT_NEXT	Zapnuto (%d)
+AUTO_CHAT_PLACEHOLDER	Zadej text..
+AUTO_CHAT_TITLE	Auto-chat

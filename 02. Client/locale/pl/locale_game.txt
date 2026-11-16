@@ -1,0 +1,1 @@
+CHAT_INSULT_STRING	To zdanie zawiera niepoprawne s³owa.

@@ -1,0 +1,7 @@
+AUTO_CHAT_ADD_EMOJI	Emoji hozzáadása
+AUTO_CHAT_ADD_SHOP_LINK	Bolt link hozzáadása
+AUTO_CHAT_DISABLED	Kikapcsolva
+AUTO_CHAT_ENABLED	Bekapcsolva
+AUTO_CHAT_NEXT	Bekapcsolva (%d)
+AUTO_CHAT_PLACEHOLDER	Írd be a szöveget..
+AUTO_CHAT_TITLE	Automatikus csevegés
